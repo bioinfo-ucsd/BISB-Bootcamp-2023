@@ -1,0 +1,6 @@
+name: bootcamp
+channels:
+  - conda-forge
+dependencies:
+  - conda-forge::google-cloud-sdk
+  - conda-forge::ipykernel
