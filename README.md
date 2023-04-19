@@ -1,6 +1,6 @@
-# BISB Bootcamp 2022
+# BISB Bootcamp 2023
 
-This is the course repository for the 2022 UC San Diego Bioinformatics & Systems Biology (BISB) PhD program Bootcamp. To learn more about bootcamp, please visit the [course website](https://bioinfo-ucsd.github.io/BISB-Bootcamp-2022/).
+This is the course repository for the 2023 UC San Diego Bioinformatics & Systems Biology (BISB) PhD program Bootcamp. To learn more about bootcamp, please visit the [course website](https://bioinfo-ucsd.github.io/BISB-Bootcamp-2023/).
 
 This repo is structured as follows:
 
@@ -17,4 +17,4 @@ To contribute to the course materials, please follow the instructions at [./modu
 
 ## Adapting this repository for future iterations of BISB Bootcamp
 
-Click [Use this template](https://github.com/bioinfo-ucsd/BISB-Bootcamp-2022/generate) to create a new repo for a future bootcamp. Then edit away!
+Click [Use this template](https://github.com/bioinfo-ucsd/BISB-Bootcamp-2023/generate) to create a new repo for a future bootcamp. Then edit away!
