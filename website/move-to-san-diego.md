@@ -2,7 +2,7 @@
 layout: page
 title: Moving to San Diego
 description: A listing of all the course instructors.
-nav_order: 3
+nav_order: 8
 ---
 
 # Move to San Diego

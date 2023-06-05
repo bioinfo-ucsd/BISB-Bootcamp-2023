@@ -2,7 +2,7 @@
 layout: page
 title: UC San Diego Onboarding 
 description: A listing of all the course instructors.
-nav_order: 3
+nav_order: 6
 ---
 
 # UC San Diego Onboarding

@@ -2,7 +2,7 @@
 layout: page
 title: Parking at UCSD
 description: Parking Information on campus
-nav_order: 3
+nav_order: 9
 ---
 
 # Parking at UCSD

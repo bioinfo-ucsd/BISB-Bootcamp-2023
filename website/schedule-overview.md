@@ -2,7 +2,7 @@
 layout: page
 title: Schedule Overview
 description: The schedule for bootcamp week.
-nav_order: 4
+nav_order: 3
 ---
 
 # Schedule Overview

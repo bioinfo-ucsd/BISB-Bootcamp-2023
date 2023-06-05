@@ -2,7 +2,7 @@
 layout: page
 title: Schedule Details
 description: A detailed summary of Bootcamp modules.
-nav_order: 5
+nav_order: 4
 ---
 
 # Schedule Details

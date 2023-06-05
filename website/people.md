@@ -2,7 +2,7 @@
 layout: page
 title: People
 description: A listing of all the course instructors.
-nav_order: 100
+nav_order: 5
 ---
 
 # People
