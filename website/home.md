@@ -42,10 +42,6 @@ Learn about setting up your new student account, obtaining an ID card, signing u
 
 Learn about the parking at UCSD at [Parking at UCSD](ucsd-parking.md).
 
-## COVID-19
-
-Learn about UC San Diego's COVID-19 policies and testing as well as Bootcamp's COVID-19 policies at [COVID-19 Information](covid-bootcamp-procedure.md).
-
 ## Course Instructors
 
 This course is led by current BISB graduate students! Four lead instructors curate Bootcamp's content and teach the majority of lectures, while guest instructors are invited to provide instruction on specialized topics. See [People](people.md) for more information.
