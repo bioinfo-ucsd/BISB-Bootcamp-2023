@@ -1,9 +1,9 @@
 ---
 name: Mike Cuoco
-role: Bootcamp Instructor
+role: Guest Instructor
 email: mcuoco@ucsd.edu
 advisor: ["Rusty Gage", "Eran Mukamel"]
-title: 3rd year BISB PhD student
+title: 4th year BISB PhD student
 pronouns: he/him
 photo: mike_cuoco.jpg
 ---
