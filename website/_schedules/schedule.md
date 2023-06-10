@@ -32,7 +32,7 @@ types:
     name: Other
 schedule:
   - name: Monday
-    date: '2022-09-12'
+    date: '2023-09-18'
     events:
       - name: Breakfast
         type: break
@@ -42,8 +42,8 @@ schedule:
         type: program
         start: "9:00 AM"
         end: "9:30 AM"
-        instructors: ["Terry Gaasterland, *BISB Program Chair*", "Lucila Ohno-Machado, *BMI Program Chair*"]
-        description: "Welcome to the BISB/BMI graduate program! Our program directors will provide an overview of the graduate program and the two tracks, Bioinformatics and Systems Biology (BISB) and Biomedical Informatics (BMI)."
+        instructors: ["Terry Gaasterland, *BISB Program Chair*"]
+        description: "Welcome to the BISB/BMI graduate program! Our program directors will provide an overview of the Bioinformatics and Systems Biology graduate program."
       - name: BISB Graduate Program Overview
         type: program
         start: "9:30 AM"
@@ -53,44 +53,50 @@ schedule:
         type: program
         start: "11:15 AM"
         end: "12:00 PM"
-        instructors: ["Hratch Baghdassarian, *Bootcamp Instructor*", "Lauryn Bruce, *Bootcamp Instructor*", "Mike Cuoco, *Bootcamp Instructor*", "Kiki Spaulding, *Bootcamp Instructor*"]
+        instructors: ["Hratch Baghdassarian, *Bootcamp Instructor*", "Kiki Spaulding, *Bootcamp Instructor*", "Juan Tibocha-Bonilla, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
       - name: Lunch
         type: break
         start: '12:00 PM'
         end: '1:00 PM'
-      - name: "Computational Environments" 
-        fullname: "Module 1:  Understanding Computational Environments" 
+      - name: "Computational Environments"
+        fullname: "Module 1: Understanding Computational Environments"
         type: mod
         start: "1:00 PM"
         end: "2:00 PM"
-        instructors: ["Hratch Baghdassarian, *Bootcamp Instructor*", "Kiki Spaulding, *Bootcamp Instructor*"]
+        instructors: ["Hratch Baghdassarian, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
         description: "In this module we will introduce you to the [UCSD Jupyterhub (Data Science) Platform](https://datahub.ucsd.edu/hub/login?next=%2Fhub%2F). You will learn how to navigate with Command Line Interfaces (CLI) using a Terminal Application. We will also cover package and environment management with including: how to use the [conda package manager](https://docs.conda.io/en/latest/), configuring conda channels, creating, saving, and loading new conda environments, and the basics of commonly-used python packages (e.g., jupyterlab, numpy, etc.) We will also go over the 5 basic concepts found in most programming languages. We will also review some examples of common programming tasks in bioinformatics including printing/manipulating text and reading/writing files."
       - name: "Enjoying San Diego" 
         type: other
         fullname: "Enjoying San Diego: The BISB Guide to San Diego Sights, Eats, and Drinks"
         start: "2:15 PM"
         end: "2:45 PM"
-        instructors: "Lauryn Bruce, *Bootcamp Instructor*"
+        instructors: "Kiki Spaulding, *Bootcamp Instructor*"
       - name: "Introduction to Next-Generation Sequencing"
         fullname: "Module 2: Introduction to Next-Generation Sequencing"
         type: mod
         start: "3:00 PM"
         end: "5:00 PM"
-        instructors: ["Mike Cuoco, *Bootcamp Instructor*", "Lauryn Bruce, *Bootcamp Instructor*"]
+        instructors: ["Kiki Spauling, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
         description: "In this module we will describe the molecular biology foundations of sequencing technologies, from the original sanger method to the current cutting-edge. We will work with sequencing data from the [SK-BR-3 breast cancer cell line](https://www.cellosaurus.org/CVCL_0033) to learn about sequencing data file formats, compare data from different technologies, and search for cancer mutations."
   - name: Tuesday
-    date: '2022-09-13'
+    date: '2023-09-19'
     events:
       - name: Breakfast
         type: break
         start: '8:30 AM'
         end: '9:00 AM'
+      - name: BMI Intro
+        type: program
+        start: '9:00 AM'
+        end: '9:30 AM'
+        instructors: ['Amy Sitapati, *DBMI Director*']
+        description: 'For our BMI students, welcome! Dr. Amy Sitapti will introduce the Department of Biomedical Informatics (DBMI) at UCSD. Researchers from BISB and BMI often get to work together so this a great opportunity for both BISB and BMI students to learn more about the DBMI.'
       - name: "International Info / Choosing an Advisor"
         fullname: "Breakout: International Student Info / Choosing a PhD Advisor"
         type: other
-        location: MET 141 (International Student Info); MET 145 (Choosing a PhD Advisor)
-        start: '9:00 AM'
-        end: '10:00 AM'
+        location: MET 145 (International Student Info); MET 143 (Choosing a PhD Advisor)
+        start: '9:30 AM'
+        end: '10:30 AM'
         instructors: ["Erick Armingol, *Guest Instructor* (International Student Info)", "Clarence Mah, *Guest Instructor* (Choosing a PhD Advisor)"]
         description: "**International Studnet Info**: This section will cover a brief introduction of the first things that international students have to deal with once they arrive in the US, and important points to consider in the BISB program. Also how to connect with other international students on campus! <br> **Choosing a PhD Advisor**: What should you consider when deciding on a lab beyond your research interests? Here are tips and questions to ask when identifying your new home for the next few years."
       - name: "Pragmatic Statistics"
