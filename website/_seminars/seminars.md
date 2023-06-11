@@ -92,7 +92,7 @@ seminars:
   talks:
   - speaker: Kit Curtius, PhD
     speaker_title: Assistant Professor, UCSD Division of Biomedical Informatics, Department of Medicine
-    talk_title: "\"Neuronal epigenomes and cognitive diversity\""
+    talk_title: "\"Quantitative modeling of cancer evolution and early detection\""
     photo: kit_curtius.jpg
     keywords: Mathematical Modeling, Pre-Cancer Evolution, Translational Bioinformatics
     website: https://qcclab.com
