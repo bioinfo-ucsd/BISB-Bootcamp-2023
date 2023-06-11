@@ -24,7 +24,7 @@ Bootcamp's content spans the topics listed above and is delivered through lectur
 
 ## Location and Schedule
 
-Bootcamp is held in the week prior to the start of Fall classes, from **Monday, September 18, 2023 to Friday, September 22, 2023**, in **[MET](https://goo.gl/maps/eXQLH5v2zcRU8f8P8) room 143**. See the [Schedule Overview](schedule-overview.md) and [Schedule Details](schedule-details.md). *Please note the schedule is actively being developed and is subject to change.*
+Bootcamp is held in the week prior to the start of Fall classes, from **Monday, September 18, 2023 to Friday, September 22, 2023**, in **[MET](https://goo.gl/maps/eXQLH5v2zcRU8f8P8) room 145**. See the [Schedule Overview](schedule-overview.md) and [Schedule Details](schedule-details.md). *Please note the schedule is actively being developed and is subject to change.*
 
 ## Learn about BISB/BMI Research: Summer Seminar Series
 
