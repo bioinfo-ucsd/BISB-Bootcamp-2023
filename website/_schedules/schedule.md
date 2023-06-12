@@ -39,7 +39,7 @@ schedule:
         start: '8:30 AM'
         end: '9:00 AM'
         location: Room 145
-      - name:BISB Opening Statement from Program Chairs
+      - name: BISB Opening Statement from Program Chairs
         type: program
         start: "9:00 AM"
         end: "9:30 AM"
