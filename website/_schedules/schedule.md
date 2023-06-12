@@ -39,13 +39,12 @@ schedule:
         start: '8:30 AM'
         end: '9:00 AM'
         location: Room 145
-      - name: BISB Opening Statement from Program Chairs
+      - name: Opening Remarks
         type: program
         start: "9:00 AM"
         end: "9:30 AM"
         instructors: ["Terry Gaasterland, *BISB Program Chair*"]
         description: "Welcome to the BISB/BMI graduate program! Our program directors will provide an overview of the Bioinformatics and Systems Biology graduate program."
-        location: MET 145
       - name: BISB Administrative Overview
         type: program
         start: "9:30 AM"
@@ -55,7 +54,6 @@ schedule:
         type: program
         start: "11:00 AM"
         end: "12:00 PM"
-        location: MET 145
         instructors: ["Hratch Baghdassarian, *Bootcamp Instructor*", "Kiki Spaulding, *Bootcamp Instructor*", "Juan Tibocha-Bonilla, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
       - name: Lunch
         type: break
@@ -66,7 +64,6 @@ schedule:
         type: mod
         start: "1:00 PM"
         end: "2:00 PM"
-        location: MET 145
         instructors: ["Hratch Baghdassarian, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
         description: "In this module we will introduce you to the [UCSD Jupyterhub (Data Science) Platform](https://datahub.ucsd.edu/hub/login?next=%2Fhub%2F). You will learn how to navigate with Command Line Interfaces (CLI) using a Terminal Application. We will also cover package and environment management with including: how to use the [conda package manager](https://urldefense.com/v3/__https://docs.conda.io/en/latest/__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-EM8hXM_$ ), configuring conda channels, creating, saving, and loading new conda environments, and the basics of commonly-used python packages (e.g., jupyterlab, numpy, etc.) We will also go over the 5 basic concepts found in most programming languages. We will also review some examples of common programming tasks in bioinformatics including printing/manipulating text and reading/writing files."
       - name: "Enjoying San Diego" 
@@ -75,23 +72,20 @@ schedule:
         start: "2:00 PM"
         end: "2:30 PM"
         instructors: "Kiki Spaulding, *Bootcamp Instructor*"
-        location: MET 145
-      - name: "Introduction to Next-Generation Sequencing"
+      - name: "Intro to NGS"
         fullname: "Module 2A: Introduction to Next-Generation Sequencing"
         type: mod
         start: "2:45 PM"
         end: "4:00 PM"
         instructors: ["Kiki Spauling, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
-        location: MET 145
         description: "In this module we will describe the molecular biology foundations of sequencing technologies, from the original sanger method to the current cutting-edge. We will work with sequencing data from the [SK-BR-3 breast cancer cell line](https://urldefense.com/v3/__https://www.cellosaurus.org/CVCL_0033__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-MvPZIto$ ) to learn about sequencing data file formats, compare data from different technologies, and search for cancer mutations."
-      - name: "Introduction to Next-Generation Sequencing"
+      - name: "Intro to NGS"
         fullname: "Module 2B: Introduction to Next-Generation Sequencing"
         type: mod
         start: "4:15 PM"
         end: "5:00 PM"
         instructors: ["Kiki Spauling, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
         description: "Second part of our Module 2: Introduction to Next-Generation Sequencing."
-        location: MET 145
   - name: Tuesday
     date: '2023-09-19'
     events:
@@ -124,7 +118,7 @@ schedule:
         type: other
         start: '11:30 AM'
         end: '12:00 PM'
-        instructors: ["Hannah Mummey, *Guest Instructor, GBIC President*", "David Laub, *Bootcamp Instructor*"]
+        instructors: ["GBIC Representatative", "David Laub, *Bootcamp Instructor*"]
       - name: Lunch
         type: break
         start: '12:00 PM'
@@ -133,7 +127,7 @@ schedule:
         type: other
         start: '1:00 PM'
         end: '1:30 PM'
-        instructors; ["Guest Instructors from UAW2865"]
+        instructors: ["Guest Instructors from UAW2865"]
       - name: "Software Engineering (Lecture)"
         fullname: "Module 7A: Software Engineering on a Team (Lecture)"
         type: mod
@@ -146,7 +140,6 @@ schedule:
         start: '3:15 PM'
         end: '4:30 PM'
         instructors: ["David Laub, *Bootcamp Instructor*"]
-
   - name: Wednesday
     date: '2023-09-20'
     events:
@@ -201,9 +194,8 @@ schedule:
         start: '3:30 PM'
         end: '4:30 PM'
         instructors: "Nathan Lewis, *Guest Instructor*, Associate Professor, Department of Pediatrics"
-        
   - name: Thursday 
-    date: '2023-09-'
+    date: '2023-09-21'
     events:
       - name: Breakfast
         type: break
@@ -238,9 +230,8 @@ schedule:
         end: '5:00 PM'
         location: UCSD Challenge Course (Eucalyptus Grove)
         description: Read about [the course](https://recreation.ucsd.edu/adventures/the-course/)!
-
   - name: Friday
-    date: '2022-09-16'
+    date: '2023-09-22'
     events:
       - name: Breakfast
         type: break

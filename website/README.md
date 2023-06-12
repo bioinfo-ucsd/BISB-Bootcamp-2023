@@ -1,6 +1,6 @@
-# BISB Bootcamp 2022 Website
+# BISB Bootcamp 2023 Website
 
-This is a static website that hosts information for the 2022 UC San Diego Bioinformatics & Systems Biology PhD Program Bootcamp. The site is rendered using [Jekyll](https://jekyllrb.com/) and uses the [Just the Class website template by Kevin Lin](https://kevinl.info/just-the-class/).
+This is a static website that hosts information for the 2023 UC San Diego Bioinformatics & Systems Biology PhD Program Bootcamp. The site is rendered using [Jekyll](https://jekyllrb.com/) and uses the [Just the Class website template by Kevin Lin](https://kevinl.info/just-the-class/).
 
 If you have ideas or suggestions for this website, please contribute and/or submit an issue!
 
@@ -11,7 +11,7 @@ If you have ideas or suggestions for this website, please contribute and/or subm
     ```bash
     gem sources --add https://rubygems.org/
     gem install bundler jekyll # install Jekyll
-    git clone https://github.com/bioinfo-ucsd/BISB-Bootcamp-2022 # clone this repo
+    git clone https://github.com/bioinfo-ucsd/BISB-Bootcamp-2023 # clone this repo
     ```
 
 2. Make your changes
