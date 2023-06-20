@@ -57,8 +57,8 @@ seminars:
     keywords: Single-cell transcriptomics, Epigenomics, Neurodegeneration
     website: https://www.chenglaboratory.com/
 - date: "2023-07-27"
-  flyer: 07-21-2022_flyer.png
-  recording: https://drive.google.com/file/d/1IGE_a1ExujnZGbJxwex6-J9ysADTfYDT/view?usp=sharing
+#   flyer:
+#   recording:
   talks:
   - speaker: Lukas Chavez, PhD
     speaker_title: Associate Professor, Departments of Pediatrics and Bioengineering
