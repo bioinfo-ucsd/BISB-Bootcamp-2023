@@ -9,11 +9,13 @@ seminars:
     talk_title: "\"Blending Biophysics and Machine Learning to Predict the Antibody Response\""
     keywords: Antibody-Virus Interactions, Biophysics, Machine Learning
     website: https://taleinav.github.io/
+    photo: tal_einav.jpg
   - speaker: Pallav Kosuri, PhD
     speaker_title: Assistant Professor, Salk Institute (BioSci @UCSD)
     talk_title: "\"Spatial single-cell transcription and mechanics\""
     keywords: Spatial Transcriptomics, Single-Cell Biology, Super-Resolution Microscopy, Cardiac Biology, Molecular Biophysics, Single-Molecule Mechanics, DNA Origami
     website: https://kosurilab.com
+    photo: pallav_kosuri.jpg
 - date: "2023-07-06"
 #   flyer:
 #   recording:
@@ -53,7 +55,7 @@ seminars:
   - speaker: Christine Cheng, PhD
     speaker_title: Professor, Department of Psychiatry
     talk_title: "\"Single cell transcriptomics and epigenomics for opioid use disorder and Alzhiemer's disease\""
-    photo: christine_cheng.jpg
+    photo: christine_cheng.png
     keywords: Single-cell transcriptomics, Epigenomics, Neurodegeneration
     website: https://www.chenglaboratory.com/
 - date: "2023-07-27"
