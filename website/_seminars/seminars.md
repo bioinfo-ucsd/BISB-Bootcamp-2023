@@ -1,7 +1,7 @@
 ---
 seminars:
 - date: "2023-06-29"
-#   flyer:
+  flyer: 062923_seminar.png
 #   recording:
   talks:
   - speaker: Tal Einav, PhD
@@ -17,7 +17,7 @@ seminars:
     website: https://kosurilab.com
     photo: pallav_kosuri.jpg
 - date: "2023-07-06"
-#   flyer:
+  flyer: 070623_seminar.png
 #   recording:
   talks:
   - speaker: Abraham Palmer, PhD
@@ -42,14 +42,8 @@ seminars:
     photo: jonathan_sebat.jpg
     keywords: Genome sequencing, Complex Trait Genetics, Genetic Therapies
     website: https://sebatlab.org/
-  - speaker: Matteo D'Antonio, PhD
-    speaker_title: Assistant Professor, Medicine - Division of Biomedical Informatics
-    talk_title: "\"Improving inclusion in genetics: Developing new methods to include diverse and admixed populations in genetic association studies\"" 
-    photo: matteo_dantonio.jpg
-    keywords: Genome-Wide Association Studies, Polygenic Risk Scores, Admixture
-    website: https://admixgenomics.ucsd.edu/cast-team/
 - date: "2023-07-20"
-#   flyer:
+  flyer: 072023_seminar.png
 #   recording:
   talks:
   - speaker: Christine Cheng, PhD
@@ -58,8 +52,14 @@ seminars:
     photo: christine_cheng.png
     keywords: Single-cell transcriptomics, Epigenomics, Neurodegeneration
     website: https://www.chenglaboratory.com/
+  - speaker: Matteo D'Antonio, PhD
+    speaker_title: Assistant Professor, Medicine - Division of Biomedical Informatics
+    talk_title: "\"Improving inclusion in genetics: Developing new methods to include diverse and admixed populations in genetic association studies\"" 
+    photo: matteo_dantonio.jpg
+    keywords: Genome-Wide Association Studies, Polygenic Risk Scores, Admixture
+    website: https://admixgenomics.ucsd.edu/cast-team/
 - date: "2023-07-27"
-#   flyer:
+  flyer: 072723_seminar.png
 #   recording:
   talks:
   - speaker: Lukas Chavez, PhD
@@ -68,6 +68,12 @@ seminars:
     photo: lukas_chavez.jpg
     keywords: Genomics, Epigenomics, Cancer, Structural Variants, Computational Biology, Translational/Clinical Bioinformatics
     website: https://chavezlab.org/
+  - speaker: Anjana Rao, PhD
+    speaker_title: Head of the Division of Signaling and Gene Expression, La Jolla Institute for Immunology
+    talk_title: "\"TET Methylcytosine Dioxygenases, Inflammation, and Cancer\""
+    photo: anjana_rao.jpg
+    keywords: TET enzymes, DNA methylation, Immunology, Cancer
+    website: https://www.lji.org/labs/rao/
 - date: "2023-08-03"
 #   flyer:
 #   recording:
@@ -78,6 +84,28 @@ seminars:
     photo: jill_mesirov.jpg
     keywords: Functional Data, Signatures, Machine Learning, Accessible Software
     website: https://mesirovlab.org/
+  - speaker: Ravi Goyal, PhD
+    speaker_title: Assistant Professor, Medicine
+    talk_title: "Predicting HIV incidence: Integrating molecular sequence and epidemiological data"
+    photo: ravi_goyal.jpg
+    keywords: Mathematical models, molecular sequence, network science, HIV
+    website: https://profiles.ucsd.edu/ravi.goyal
+- date: "2023-08-10"
+#   flyer:
+#   recording:
+  talks:
+#   - speaker: Graham McVicker, PhD
+#     speaker_title: Associate Professor, Salk Institute
+#     talk_title: 
+#     photo: graham_mcvicker.jpg
+#     keywords: 
+#     website: http://mcvicker.salk.edu/
+  - speaker: Gurol Suel, PhD
+    speaker_title: Professor, Department of Molecular Biology
+    talk_title: Modeling How Dormant Cells Come Back To Life
+    photo: gurol_suel.jpg
+    keywords: single-cell dynamics
+    website: https://suellab.github.io/
 - date: "2023-08-17"
 #   flyer:
 #   recording:
@@ -87,7 +115,7 @@ seminars:
     talk_title: "\"Rob will be discussing his lab’s work, share rotation opportunities, and take Q&A\""
     photo: rob_knight.jpg
     keywords: Microbiome, Qiita, Wastewater
-    website: https://goren-lab.github.io
+    website: https://knightlab.ucsd.edu/wordpress/
 - date: "2022-08-24"
 #   flyer:
 #   recording:
@@ -108,6 +136,12 @@ seminars:
     photo: tsung-ting_kuo.jpg
     keywords: Machine Learning, Blockchain Technology, Privacy Protection
     website: https://profiles.ucsd.edu/tsung-ting.kuo
+  - speaker: Gen-Sheng Feng, PhD
+    speaker_title: Professor, Department of Pathology
+    talk_title: "\"Multi-omics Studies of Liver Tumors and Microenvironment\""
+    photo: gen-sheng_feng.jpg
+    keywords: scRNA-seq, Immunotherapy, SHP2, Oncogenic Signaling
+    website: https://sites.google.com/ucsd.edu/fenglivercancerresearch/home
 - date: "2022-09-07"
 #   flyer:
 #   recording:

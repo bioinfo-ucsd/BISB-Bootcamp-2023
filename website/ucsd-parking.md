@@ -11,7 +11,7 @@ Like at any college campus, parking can be an adventure and is not free. Include
 
 ## Parking during bootcamp
 
-The two closest parking structures to the Medical Education and Telemedicine (MET) building are [Osler](https://goo.gl/maps/uzz2HEvGEtH3rYE19) and [Gilman](https://goo.gl/maps/Cv84DpaKnMcgr7Th9) parking structures. 
+The two closest parking structures to the Medical Education and Telemedicine (MET) building are the [South](https://goo.gl/maps/uzz2HEvGEtH3rYE19) and [Gilman](https://goo.gl/maps/Cv84DpaKnMcgr7Th9) parking structures.
 
 With the graduate student parking pass or the daily parking pass with the Park Mobile app, you can park in any **B** spot!
 
