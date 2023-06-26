@@ -71,7 +71,7 @@ seminars:
   - speaker: Anjana Rao, PhD
     speaker_title: Head of the Division of Signaling and Gene Expression, La Jolla Institute for Immunology
     talk_title: "\"TET Methylcytosine Dioxygenases, Inflammation, and Cancer\""
-    photo: anjana_rao.jpg
+    photo: anjana_rao.jpeg
     keywords: TET enzymes, DNA methylation, Immunology, Cancer
     website: https://www.lji.org/labs/rao/
 - date: "2023-08-03"
