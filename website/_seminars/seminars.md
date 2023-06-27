@@ -86,7 +86,7 @@ seminars:
     website: https://mesirovlab.org/
   - speaker: Ravi Goyal, PhD
     speaker_title: Assistant Professor, Medicine
-    talk_title: "Predicting HIV incidence: Integrating molecular sequence and epidemiological data"
+    talk_title: "\"Predicting HIV incidence: Integrating molecular sequence and epidemiological data\""
     photo: ravi_goyal.jpg
     keywords: Mathematical models, molecular sequence, network science, HIV
     website: https://profiles.ucsd.edu/ravi.goyal
@@ -94,15 +94,15 @@ seminars:
 #   flyer:
 #   recording:
   talks:
-#   - speaker: Graham McVicker, PhD
-#     speaker_title: Associate Professor, Salk Institute
-#     talk_title: 
-#     photo: graham_mcvicker.jpg
-#     keywords: 
-#     website: http://mcvicker.salk.edu/
+  - speaker: Graham McVicker, PhD
+    speaker_title: Associate Professor, Salk Institute
+    talk_title: "\"New methods to understand the impact of genetic variation on gene regulation\""
+    photo: graham_mcvicker.jpg
+    keywords: Genomics, Epigenomics
+    website: http://mcvicker.salk.edu/
   - speaker: Gurol Suel, PhD
     speaker_title: Professor, Department of Molecular Biology
-    talk_title: Modeling How Dormant Cells Come Back To Life
+    talk_title: "\"Modeling How Dormant Cells Come Back To Life\""
     photo: gurol_suel.jpg
     keywords: single-cell dynamics
     website: https://suellab.github.io/
