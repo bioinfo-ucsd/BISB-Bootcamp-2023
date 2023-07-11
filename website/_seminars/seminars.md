@@ -46,12 +46,6 @@ seminars:
   flyer: 072023_seminar.png
 #   recording:
   talks:
-  - speaker: Christine Cheng, PhD
-    speaker_title: Professor, Department of Psychiatry
-    talk_title: "\"Single cell transcriptomics and epigenomics for opioid use disorder and Alzhiemer's disease\""
-    photo: christine_cheng.png
-    keywords: Single-cell transcriptomics, Epigenomics, Neurodegeneration
-    website: https://www.chenglaboratory.com/
   - speaker: Matteo D'Antonio, PhD
     speaker_title: Assistant Professor, Medicine - Division of Biomedical Informatics
     talk_title: "\"Improving inclusion in genetics: Developing new methods to include diverse and admixed populations in genetic association studies\"" 
@@ -78,18 +72,18 @@ seminars:
 #   flyer:
 #   recording:
   talks:
-  - speaker: Jill Mesirov, PhD
-    speaker_title: Professor, Department of Medicine, Division of Genomics and Precision Medicine
-    talk_title: "\"Computational Genomic Approaches to the Understanding and Treatment of Cancer\""
-    photo: jill_mesirov.jpg
-    keywords: Functional Data, Signatures, Machine Learning, Accessible Software
-    website: https://mesirovlab.org/
   - speaker: Ravi Goyal, PhD
     speaker_title: Assistant Professor, Medicine
     talk_title: "\"Predicting HIV incidence: Integrating molecular sequence and epidemiological data\""
     photo: ravi_goyal.jpg
     keywords: Mathematical models, molecular sequence, network science, HIV
     website: https://profiles.ucsd.edu/ravi.goyal
+  - speaker: Jill Mesirov, PhD
+    speaker_title: Professor, Department of Medicine, Division of Genomics and Precision Medicine
+    talk_title: "\"Computational Genomic Approaches to the Understanding and Treatment of Cancer\""
+    photo: jill_mesirov.jpg
+    keywords: Functional Data, Signatures, Machine Learning, Accessible Software
+    website: https://mesirovlab.org/
 - date: "2023-08-10"
 #   flyer:
 #   recording:
@@ -116,6 +110,12 @@ seminars:
     photo: rob_knight.jpg
     keywords: Microbiome, Qiita, Wastewater
     website: https://knightlab.ucsd.edu/wordpress/
+  - speaker: Christine Cheng, PhD
+    speaker_title: Professor, Department of Psychiatry
+    talk_title: "\"Single cell transcriptomics and epigenomics for opioid use disorder and Alzhiemer's disease\""
+    photo: christine_cheng.png
+    keywords: Single-cell transcriptomics, Epigenomics, Neurodegeneration
+    website: https://www.chenglaboratory.com/
 - date: "2022-08-24"
 #   flyer:
 #   recording:
