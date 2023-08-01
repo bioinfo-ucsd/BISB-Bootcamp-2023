@@ -42,6 +42,11 @@ seminars:
     photo: jonathan_sebat.jpg
     keywords: Genome sequencing, Complex Trait Genetics, Genetic Therapies
     website: https://sebatlab.org/
+  - speaker: Vineet Bafna, PhD
+    speaker_title: Professor, Department of Computer Science
+    talk_title: "\"Extrachromosomal DNA in cancer\""
+    photo: vineet_bafna.jpg
+    website: http://proteomics.ucsd.edu/vbafna/
 - date: "2023-07-20"
   flyer: 072023_seminar.png
 #   recording:
@@ -52,6 +57,12 @@ seminars:
     photo: matteo_dantonio.jpg
     keywords: Genome-Wide Association Studies, Polygenic Risk Scores, Admixture
     website: https://admixgenomics.ucsd.edu/cast-team/
+  - speaker: Vikas Bansal
+    speaker_title: Associate Professor, School of Medicine, Computer Science
+    talk_title: "\"Variant calling in low-copy repeats and human disease\"" 
+    photo: vikas_bansal.jpg
+    keywords: low-copy repeats, variant calling, copy number, DNA sequencing technologies, duplicated genes
+    website: https://bansal-lab.github.io/
 - date: "2023-07-27"
   flyer: 072723_seminar.png
 #   recording:
@@ -78,12 +89,12 @@ seminars:
     photo: ravi_goyal.jpg
     keywords: Mathematical models, molecular sequence, network science, HIV
     website: https://profiles.ucsd.edu/ravi.goyal
-  - speaker: Jill Mesirov, PhD
-    speaker_title: Professor, Department of Medicine, Division of Genomics and Precision Medicine
-    talk_title: "\"Computational Genomic Approaches to the Understanding and Treatment of Cancer\""
-    photo: jill_mesirov.jpg
-    keywords: Functional Data, Signatures, Machine Learning, Accessible Software
-    website: https://mesirovlab.org/
+  - speaker: Amit Majithia, PhD
+    speaker_title: Associate Professor, Department of Medicine
+    talk_title: "\"Distilling new drug targets using biobanks and functional genomics\""
+    photo: amit_majithia.jpg
+    keywords: metabolic disease, human genetics, deep mutational scan, genome engineering
+    website: https://medschool.ucsd.edu/som/medicine/divisions/endocrinology/research/labs/majithia/Pages/default.aspx
 - date: "2023-08-10"
 #   flyer:
 #   recording:
@@ -126,6 +137,12 @@ seminars:
     photo: kit_curtius.jpg
     keywords: Mathematical Modeling, Pre-Cancer Evolution, Translational Bioinformatics
     website: https://qcclab.com
+  - speaker: Ron Evans, PhD
+    speaker_title: Professor, The Salk Institute for Biological Studies, Gene Expression Lab
+    talk_title: "\"TBD\""
+    photo: ron_evans.jpg
+    keywords: nuclear receptors, epigenomics, gene expression
+    website: https://evans.salk.edu/
 - date: "2022-08-31"
 #   flyer:
 #   recording:
@@ -152,4 +169,19 @@ seminars:
     photo: alon_goren.jpg
     keywords: Chromatin Regulatory Networks, Genetic Variation, Epigenomic Mechanisms
     website: https://goren-lab.github.io/
+  - speaker: Yatish Turakhia, PhD
+    speaker_title: Assistant Professor, Electrical and Computer Engineering
+    talk_title: "\"Pandemic-scale Phylogenetics\""
+    photo: yatish_turakhia.jpg
+    website: https://turakhia.eng.ucsd.edu/
+- date: "2022-09-14"
+#   flyer:
+#   recording:
+  talks:
+  - speaker: Jill Mesirov, PhD
+    speaker_title: Professor, Department of Medicine, Division of Genomics and Precision Medicine
+    talk_title: "\"Computational Genomic Approaches to the Understanding and Treatment of Cancer\""
+    photo: jill_mesirov.jpg
+    keywords: Functional Data, Signatures, Machine Learning, Accessible Software
+    website: https://mesirovlab.org/
 ---
