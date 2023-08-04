@@ -99,12 +99,6 @@ seminars:
 #   flyer:
 #   recording:
   talks:
-  - speaker: Graham McVicker, PhD
-    speaker_title: Associate Professor, Salk Institute
-    talk_title: "\"New methods to understand the impact of genetic variation on gene regulation\""
-    photo: graham_mcvicker.jpg
-    keywords: Genomics, Epigenomics
-    website: http://mcvicker.salk.edu/
   - speaker: Gurol Suel, PhD
     speaker_title: Professor, Department of Molecular Biology
     talk_title: "\"Modeling How Dormant Cells Come Back To Life\""
@@ -178,6 +172,12 @@ seminars:
 #   flyer:
 #   recording:
   talks:
+  - speaker: Graham McVicker, PhD
+    speaker_title: Associate Professor, Salk Institute
+    talk_title: "\"New methods to understand the impact of genetic variation on gene regulation\""
+    photo: graham_mcvicker.jpg
+    keywords: Genomics, Epigenomics
+    website: http://mcvicker.salk.edu/
   - speaker: Jill Mesirov, PhD
     speaker_title: Professor, Department of Medicine, Division of Genomics and Precision Medicine
     talk_title: "\"Computational Genomic Approaches to the Understanding and Treatment of Cancer\""
