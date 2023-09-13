@@ -49,7 +49,7 @@ schedule:
         type: program
         start: "9:30 AM"
         end: "11:00 AM"
-        instructors: "Fran Perez Estrada, *BISB Program Coordinator*"
+        instructors: "Elizabeth Soos, *Interim BISB Program Coordinator*"
       - name: Bootcamp Overview
         type: program
         start: "11:00 AM"
@@ -105,7 +105,7 @@ schedule:
         location: MET 145 (International Student Info); MET 143 (Choosing a PhD Advisor)
         start: '9:30 AM'
         end: '10:30 AM'
-        instructors: ["Juan Tibocha-Bonilla, *Guest Instructor* (International Student Info)", "Alex Wenzel, *Guest Instructor* (Choosing a PhD Advisor)"]
+        instructors: ["Juan Tibocha-Bonilla, *Bootcamp Instructor* (International Student Info)", "Alex Wenzel, *Guest Instructor* (Choosing a PhD Advisor)"]
         description: "**International Studnet Info**: This section will cover a brief introduction of the first things that international students have to deal with once they arrive in the US, and important points to consider in the BISB program. Also how to connect with other international students on campus! <br> **Choosing a PhD Advisor**: What should you consider when deciding on a lab beyond your research interests? Here are tips and questions to ask when identifying your new home for the next few years."
       - name: "Pragmatic Statistics"
         fullname: "Module 3: Pragmatic Statistics for Modern Biology"
@@ -175,7 +175,7 @@ schedule:
         type: program
         start: '1:00 PM'
         end: '1:30 PM'
-        instructors: "Pratibha Jagannatha, *Guest Instructor*"
+        instructors: "Jessica Au, *Guest Instructor*"
       - name: "Data Visualization"
         fullname: "Module 5: Data Visualization: ggplot, matplotlib, and seaborn"
         type: mod
@@ -193,7 +193,7 @@ schedule:
         fullname: "Getting Paid 2: Predoctoral Internships"
         start: '3:30 PM'
         end: '4:30 PM'
-        instructors: "Nathan Lewis, *Guest Instructor*, Associate Professor, Department of Pediatrics"
+        instructors: "Panelists *Guest Instructor*, Associate Professor, Department of Pediatrics"
   - name: Thursday 
     date: '2023-09-21'
     events:
