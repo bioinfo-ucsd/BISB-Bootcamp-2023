@@ -5,5 +5,5 @@ advisor: ["Shamim Nemati"]
 internship: ["PharmaStat"]
 title: 3rd year BMI PhD student
 pronouns: he/him
-photo: aaron_boussina.jpg
+photo: aaron_boussina.jpeg
 ---
