@@ -1,6 +1,6 @@
 ---
 name: Arya Massarat
-role: "Fellowship Panel"
+role: Fellowship Panel
 email: amassara@ucsd.edu
 advisor: ["Melissa Gymrek"]
 fellowship: ["NSF-GRFP"]
