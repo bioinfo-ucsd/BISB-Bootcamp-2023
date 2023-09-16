@@ -1,5 +1,6 @@
 ---
 name: Eric Kofman
+role: Internship Panel
 email: ekofman@ucsd.edu
 advisor: ["Gene Yeo"]
 internship: ["#"]

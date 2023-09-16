@@ -76,14 +76,14 @@ These students will sit on a panel for Q&A during the Fellowships session
 {% assign interns = site.staffers | where: 'role', 'Internship Panel' %}
 {% if interns.size != 0 %}
 
-<!-- ## Internships Panelists
+## Internships Panelists
 
 These students will sit on a panel for Q&A during the Internships session
 
 {% for staffer in interns %}
 {{ staffer }}
 {% endfor %}
-{% endif %} -->
+{% endif %}
 
 ## Questions?
 

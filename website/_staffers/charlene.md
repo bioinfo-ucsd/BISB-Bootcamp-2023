@@ -1,6 +1,6 @@
 ---
 name: Charlene Hsuan-lin Her
-role: Internship Panel
+role: archive
 email: hsher@ucsd.edu
 internship: ["Guardant Health"]
 advisor: ["Gene Yeo"]
