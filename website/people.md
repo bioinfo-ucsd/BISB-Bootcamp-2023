@@ -63,14 +63,14 @@ Guest instructors lead modules on specialized topics.
 {% assign fellows = site.staffers | where: 'role', 'Fellowship Panel' %}
 {% if fellows.size != 0 %}
 
-<!-- ## Fellowships Panelists
+## Fellowships Panelists
 
 These students will sit on a panel for Q&A during the Fellowships session
 
 {% for staffer in fellows %}
 {{ staffer }}
 {% endfor %}
-{% endif %} -->
+{% endif %}
 
 <!-- only print next section if these ppl exist -->
 {% assign interns = site.staffers | where: 'role', 'Internship Panel' %}
