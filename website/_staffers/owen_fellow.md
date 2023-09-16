@@ -1,6 +1,6 @@
 ---
 name: Owen Chapman
-role: Fellowship Panel
+role: archive
 email: ochapman@ucsd.edu
 advisor: ["Jill Mesirov", "Lukas Chavez"]
 fellowship: ["NIH F31"]
