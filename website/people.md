@@ -99,7 +99,7 @@ These students will sit on a panel for Q&A during the Internships session
 
 Bootcamp content is either newly generated or adapted from previous years' work. We would like to credit past bootcamp instructors for their contributions, much of which the current content is based on.
 
-- Mike Cuoco
+- Mike Cuoco, 2021-2022
 - Michelle Ragsac, 2020-2021
 - Cameron Martino, 2020-2021
 - Owen Chapman, 2019-2020
