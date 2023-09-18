@@ -67,13 +67,13 @@ schedule:
         instructors: ["Hratch Baghdassarian, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
         description: "In this module we will introduce you to the [UCSD Jupyterhub (Data Science) Platform](https://datahub.ucsd.edu/hub/login?next=%2Fhub%2F). You will learn how to navigate with Command Line Interfaces (CLI) using a Terminal Application. We will also cover package and environment management with including: how to use the [conda package manager](https://urldefense.com/v3/__https://docs.conda.io/en/latest/__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-EM8hXM_$ ), configuring conda channels, creating, saving, and loading new conda environments, and the basics of commonly-used python packages (e.g., jupyterlab, numpy, etc.) We will also go over the 5 basic concepts found in most programming languages. We will also review some examples of common programming tasks in bioinformatics including printing/manipulating text and reading/writing files."
       - name: "Software Engineering (Lecture)"
-        fullname: "Module 7A: Software Engineering on a Team (Lecture)"
+        fullname: "Module 2A: Software Engineering on a Team (Lecture)"
         type: mod
         start: '2:00 PM'
         end: '3:30 PM'
         instructors: ["David Laub, *Bootcamp Instructor*"]
       - name: "Software Engineering (Workshop)"
-        fullname: "Module 7B: Software Engineering on a Team (Workshop)"
+        fullname: "Module 2B: Software Engineering on a Team (Workshop)"
         type: mod
         start: '3:45 PM'
         end: '5:00 PM'
@@ -127,14 +127,14 @@ schedule:
         end: "2:00 PM"
         instructors: "Kiki Spaulding, *Bootcamp Instructor*"
       - name: "Intro to NGS"
-        fullname: "Module 2A: Introduction to Next-Generation Sequencing"
+        fullname: "Module 7A: Introduction to Next-Generation Sequencing"
         type: mod
         start: "2:15 PM"
         end: "3:30 PM"
         instructors: ["Kiki Spauling, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
         description: "In this module we will describe the molecular biology foundations of sequencing technologies, from the original sanger method to the current cutting-edge. We will work with sequencing data from the [SK-BR-3 breast cancer cell line](https://urldefense.com/v3/__https://www.cellosaurus.org/CVCL_0033__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-MvPZIto$ ) to learn about sequencing data file formats, compare data from different technologies, and search for cancer mutations."
       - name: "Intro to NGS"
-        fullname: "Module 2B: Introduction to Next-Generation Sequencing"
+        fullname: "Module 7B: Introduction to Next-Generation Sequencing"
         type: mod
         start: "3:45 PM"
         end: "5:00 PM"
