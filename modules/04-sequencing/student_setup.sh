@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# Setup symlinks for 02-sequencing interactive activities
+# Setup symlinks for 04-sequencing interactive activities
 # Usage: bash setup.sh 
 
 # exit if any non-zero, exit if undefined var
 set -euo pipefail
 
 source_dir=$(dirname "$0")
-dest_dir="$HOME/bootcamp-02-sequencing"
+dest_dir="$HOME/bootcamp-04-sequencing"
 
 this_dir="$dest_dir/01-whole-exome"
 mkdir -p $this_dir/data && echo "creating $this_dir..."
