@@ -50,14 +50,14 @@ Program chairs and administrators present information about program operations.
 {% assign guests = site.staffers | where: 'role', 'Guest Instructor' %}
 {% if guests.size != 0 %}
 
-<!-- ## Guest Instructors
+## Guest Instructors
 
 Guest instructors lead modules on specialized topics.
 
 {% for staffer in guests %}
 {{ staffer }}
 {% endfor %}
-{% endif %} -->
+{% endif %}
 
 <!-- only print next section if these ppl exist -->
 {% assign fellows = site.staffers | where: 'role', 'Fellowship Panel' %}
