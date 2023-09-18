@@ -193,7 +193,6 @@ schedule:
         fullname: "Getting Paid 2: Predoctoral Internships"
         start: '3:30 PM'
         end: '4:30 PM'
-        instructors: "Panelists"
   - name: Thursday 
     date: '2023-09-21'
     events:
