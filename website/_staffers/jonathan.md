@@ -1,6 +1,6 @@
 ---
 name: Jonathan Pekar
-role: Internship Panel
+role: archive
 email: jepekar@ucsd.edu
 advisor: ["Joel Werthiem"]
 internship: ["Vir Biotech"]

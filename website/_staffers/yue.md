@@ -1,6 +1,6 @@
 ---
 name: Yue Qin
-role: Fellowship Panel
+role: archive
 email: y8qin@ucsd.edu
 advisor: ["Trey Ideker"]
 fellowship: ["NCI F99/K00"]

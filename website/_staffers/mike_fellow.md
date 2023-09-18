@@ -1,10 +1,11 @@
 ---
-name: Arya Massarat
+name: Mike Cuoco
 role: Fellowship Panel
-email: amassara@ucsd.edu
-advisor: ["Melissa Gymrek"]
+email: mcuoco@ucsd.edu
+advisor: ["Rusty Gage", "Eran Mukamel"]
 fellowship: ["NSF-GRFP"]
 title: 4th year BISB PhD student
 pronouns: he/him
-photo: arya_massarat.jpg
+photo: mike_cuoco.jpg
 ---
+

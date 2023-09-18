@@ -63,27 +63,27 @@ Guest instructors lead modules on specialized topics.
 {% assign fellows = site.staffers | where: 'role', 'Fellowship Panel' %}
 {% if fellows.size != 0 %}
 
-<!-- ## Fellowships Panelists
+## Fellowships Panelists
 
 These students will sit on a panel for Q&A during the Fellowships session
 
 {% for staffer in fellows %}
 {{ staffer }}
 {% endfor %}
-{% endif %} -->
+{% endif %}
 
 <!-- only print next section if these ppl exist -->
 {% assign interns = site.staffers | where: 'role', 'Internship Panel' %}
 {% if interns.size != 0 %}
 
-<!-- ## Internships Panelists
+## Internships Panelists
 
 These students will sit on a panel for Q&A during the Internships session
 
 {% for staffer in interns %}
 {{ staffer }}
 {% endfor %}
-{% endif %} -->
+{% endif %}
 
 ## Questions?
 
@@ -99,7 +99,7 @@ These students will sit on a panel for Q&A during the Internships session
 
 Bootcamp content is either newly generated or adapted from previous years' work. We would like to credit past bootcamp instructors for their contributions, much of which the current content is based on.
 
-- Mike Cuoco
+- Mike Cuoco, 2021-2022
 - Michelle Ragsac, 2020-2021
 - Cameron Martino, 2020-2021
 - Owen Chapman, 2019-2020

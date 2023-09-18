@@ -1,6 +1,6 @@
 ---
 name: Owen Chapman
-role: Internship Panel
+role: archive
 email: ochapman@ucsd.edu
 advisor: ["Jill Mesirov", "Lukas Chavez"]
 internship: ["Microsoft, Software Engineering intern"]
