@@ -49,7 +49,7 @@ schedule:
         type: program
         start: "9:30 AM"
         end: "11:00 AM"
-        instructors: "Elizabeth Soos, *Interim BISB Program Coordinator*"
+        instructors: ["Terry Gaasterland, *BISB Program Chair*"]
       - name: Bootcamp Overview
         type: program
         start: "11:00 AM"
