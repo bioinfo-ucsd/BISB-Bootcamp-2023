@@ -127,14 +127,14 @@ schedule:
         end: "2:00 PM"
         instructors: "Kiki Spaulding, *Bootcamp Instructor*"
       - name: "Intro to NGS"
-        fullname: "Module 7A: Introduction to Next-Generation Sequencing"
+        fullname: "Module 4A: Introduction to Next-Generation Sequencing"
         type: mod
         start: "2:15 PM"
         end: "3:30 PM"
         instructors: ["Kiki Spauling, *Bootcamp Instructor*", "David Laub, *Bootcamp Instructor*"]
         description: "In this module we will describe the molecular biology foundations of sequencing technologies, from the original sanger method to the current cutting-edge. We will work with sequencing data from the [SK-BR-3 breast cancer cell line](https://urldefense.com/v3/__https://www.cellosaurus.org/CVCL_0033__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-MvPZIto$ ) to learn about sequencing data file formats, compare data from different technologies, and search for cancer mutations."
       - name: "Intro to NGS"
-        fullname: "Module 7B: Introduction to Next-Generation Sequencing"
+        fullname: "Module 4B: Introduction to Next-Generation Sequencing"
         type: mod
         start: "3:45 PM"
         end: "5:00 PM"
@@ -154,7 +154,7 @@ schedule:
         end: '10:00 AM'
         instructors: ["Kathleen Dorrestein, *Guest Instructor*, Staff Research Associate, Dorrestein Lab", "Mike Cuoco, *Guest Instructor*"]
       - name: "Bioinformatics Problem Sets"
-        fullname: "Module 4: Bioinformatics Problem Sets"
+        fullname: "Module 5: Bioinformatics Problem Sets"
         type: mod
         start: '10:00 AM'
         end: '11:30 AM'
@@ -177,7 +177,7 @@ schedule:
         end: '1:30 PM'
         instructors: "Jessica Au, *Guest Instructor*"
       - name: "Data Visualization"
-        fullname: "Module 5: Data Visualization: ggplot, matplotlib, and seaborn"
+        fullname: "Module 6: Data Visualization: ggplot, matplotlib, and seaborn"
         type: mod
         start: '1:30 PM'
         end: '2:30 PM'
@@ -202,7 +202,7 @@ schedule:
         start: '8:30 AM'
         end: '9:00 AM'
       - name: "Machine Learning"
-        fullname: "Module 6: Introduction to Machine Learning"
+        fullname: "Module 7: Introduction to Machine Learning"
         type: mod
         start: '9:00 AM'
         end: '10:30 AM'
