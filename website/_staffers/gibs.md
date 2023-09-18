@@ -1,6 +1,6 @@
 ---
 name: Gibraan (Gibs) Rahman
-role: Guest Instructor
+role: archive
 session: ["Module 3: Introduction to Statistical Methods for Bioinformatics", "Module 7: Software Engineering on a Team"]
 email: grahman@ucsd.edu
 advisor: ["Rob Knight"]

@@ -1,6 +1,6 @@
 ---
 name: Clarence Mah
-role: Guest Instructor
+role: archive
 email: ckmah@ucsd.edu
 advisor: ["Gene Yeo", "Hannah Carter"]
 session: ["Choosing a PhD Advisor"]

@@ -1,6 +1,6 @@
 ---
 name: Pratibha Jagannatha
-role: Guest Instructor
+role: archive
 session: "Diversity Equity and Inclusion (DEI) in the BISB program and at UCSD"
 email: pjaganna@ucsd.edu
 advisor: ["Gene Yeo"]
