@@ -94,7 +94,7 @@ schedule:
       - name: "International Info / Choosing an Advisor"
         fullname: "Breakout: International Student Info / Choosing a PhD Advisor"
         type: other
-        location: MET 145 (International Student Info); MET 143 (Choosing a PhD Advisor)
+        location: MET 143 (International Student Info); MET 145 (Choosing a PhD Advisor)
         start: '9:30 AM'
         end: '10:30 AM'
         instructors: ["Juan Tibocha-Bonilla, *Bootcamp Instructor* (International Student Info)", "Alex Wenzel, *Guest Instructor* (Choosing a PhD Advisor)"]
