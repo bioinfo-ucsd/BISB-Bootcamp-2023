@@ -28,14 +28,14 @@ Bootcamp instructors curate Bootcamp's content and teach the majority of modules
 {% assign chairs = site.staffers | where: 'role', 'Chair' %}
 {% if chairs.size != 0 %}
 
-<!-- ## Program Chairs and Administration
+## Program Chairs and Administration
 
 Program chairs and administrators present information about program operations. 
 
 {% for staffer in chairs %}
 {{ staffer }}
 {% endfor %}
-{% endif %} -->
+{% endif %}
 
 <!-- only print next section if these ppl exist -->
 {% assign admin = site.staffers | where: 'role', 'Admin' %}
@@ -50,14 +50,14 @@ Program chairs and administrators present information about program operations.
 {% assign guests = site.staffers | where: 'role', 'Guest Instructor' %}
 {% if guests.size != 0 %}
 
-<!-- ## Guest Instructors
+## Guest Instructors
 
 Guest instructors lead modules on specialized topics.
 
 {% for staffer in guests %}
 {{ staffer }}
 {% endfor %}
-{% endif %} -->
+{% endif %}
 
 <!-- only print next section if these ppl exist -->
 {% assign fellows = site.staffers | where: 'role', 'Fellowship Panel' %}

@@ -1,6 +1,6 @@
 ---
 name: Hannah Carter
-role: Guest Instructor
+role: archive
 email: hkcarter@ucsd.edu
 session: "Getting Paid 1: Predoctoral Fellowships"
 title: Associate Professor, Department of Medicine

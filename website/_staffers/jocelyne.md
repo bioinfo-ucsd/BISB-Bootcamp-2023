@@ -1,6 +1,6 @@
 ---
 name: Jocelyne Bruand
-role: Guest Instructor
+role: archive
 email: jocelyne.bruand@inscripta.com
 session: ["Getting Paid 2: Predoctoral Internships"]
 title: BISB Alumni, Senior Staff Scientist at Inscripta

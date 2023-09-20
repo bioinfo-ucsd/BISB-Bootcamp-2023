@@ -8,7 +8,7 @@ Running `make` will download and create the following files. All data are for th
 <!-- TODO: add total size of the files -->
 
 ```bash
-02-sequencing/
+04-sequencing/
 ├── ref/
 │   ├── exome_panel.bed
 │   ├── exome_panel.interval_list

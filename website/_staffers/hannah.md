@@ -1,6 +1,6 @@
 ---
 name: Hannah Mummey
-role: Guest Instructor
+role: archive
 email: hmummey@ucsd.edu
 session: "GBIC and You"
 advisor: ["Kyle Gaulton"]

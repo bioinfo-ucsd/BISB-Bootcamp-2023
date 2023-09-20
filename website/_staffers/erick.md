@@ -1,6 +1,6 @@
 ---
 name: Erick Armingol
-role: Guest Instructor
+role: archive
 session: "International Student Info Session"
 email: earmingol@ucsd.edu
 advisor: ["Nathan Lewis"]
